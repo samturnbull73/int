@@ -2,8 +2,12 @@
 2. [CI/CD](https://github.com/samturnbull73/int/blob/master/NOTES.md#ci-and-cd)
 
 ## Ansible
-1. [Simple Docker Ansible Playbook](https://github.com/samturnbull73/Simple-DevOps-Project/blob/master/Jenkins_Jobs/simple-docker-project.yml)
-2. [Deploy on a docker container using Ansible](https://github.com/samturnbull73/Simple-DevOps-Project/blob/master/Jenkins_Jobs/Deploy_on_Container_using_Ansible.MD#deploy-on-a-docker-container-using-ansible)
+1. [Ansible Directory](https://github.com/samturnbull73/ansible-directory#about-this-repo)
+2. [Simple Docker Ansible Playbook](https://github.com/samturnbull73/Simple-DevOps-Project/blob/master/Jenkins_Jobs/simple-docker-project.yml)
+3. [Deploy on a docker container using Ansible](https://github.com/samturnbull73/Simple-DevOps-Project/blob/master/Jenkins_Jobs/Deploy_on_Container_using_Ansible.MD#deploy-on-a-docker-container-using-ansible)
+
+## Kubernetes
+1. [Integration Kubernetes with Jenkins](https://github.com/samturnbull73/Simple-DevOps-Project/blob/master/Kubernetes/Integrating_Kubernetes_with_Jenkins.MD#integration-kubernetes-with-jenkins)
 
 ### Docker
 
