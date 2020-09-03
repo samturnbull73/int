@@ -2,6 +2,8 @@
 
 [CI/CD](https://github.com/samturnbull73/int/blob/master/NOTES.md#ci-and-cd)
 
+[Simple Docker Ansible Playbook](https://github.com/samturnbull73/Simple-DevOps-Project/blob/master/Jenkins_Jobs/simple-docker-project.yml)
+
 ### Docker
 
 | Tag           | Description | Example |
