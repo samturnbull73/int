@@ -9,6 +9,7 @@
 
 ## Kubernetes
 1. [Integration Kubernetes with Jenkins](https://github.com/samturnbull73/Simple-DevOps-Project/blob/master/Kubernetes/Integrating_Kubernetes_with_Jenkins.MD#integration-kubernetes-with-jenkins)
+2. [Azure Kubernetes](https://github.com/samturnbull73/int/blob/master/NOTES.md#kubernetes-on-azure)
 
 ### Docker
 
