@@ -1,8 +1,9 @@
-[Docker](https://github.com/samturnbull73/int/blob/master/NOTES.md#docker)
+1. [Docker](https://github.com/samturnbull73/int/blob/master/NOTES.md#docker), [Sample Docker File](https://github.com/samturnbull73/Simple-DevOps-Project/blob/master/Jenkins_Jobs/Dockerfile.txt)
+2. [CI/CD](https://github.com/samturnbull73/int/blob/master/NOTES.md#ci-and-cd)
 
-[CI/CD](https://github.com/samturnbull73/int/blob/master/NOTES.md#ci-and-cd)
-
-[Simple Docker Ansible Playbook](https://github.com/samturnbull73/Simple-DevOps-Project/blob/master/Jenkins_Jobs/simple-docker-project.yml)
+## Ansible
+1. [Simple Docker Ansible Playbook](https://github.com/samturnbull73/Simple-DevOps-Project/blob/master/Jenkins_Jobs/simple-docker-project.yml)
+2. [Deploy on a docker container using Ansible](https://github.com/samturnbull73/Simple-DevOps-Project/blob/master/Jenkins_Jobs/Deploy_on_Container_using_Ansible.MD#deploy-on-a-docker-container-using-ansible)
 
 ### Docker
 
