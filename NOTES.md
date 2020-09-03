@@ -1,5 +1,6 @@
 [Docker](https://github.com/samturnbull73/int/blob/master/NOTES.md#docker)
 
+[CI/CD](https://github.com/samturnbull73/int/blob/master/NOTES.md#ci-and-cd)
 
 ### Docker
 
@@ -31,3 +32,13 @@ If it passes the test, we deploy the code to next environment from Artifactory a
 We do performance testing in Preprod environment
 
 For performance testing, you may use tools like Appdynamics, New Relic, we were using load runner.
+
+#### Plugin 
+1. GitHub Plugin
+2. Command Agent Launched plugin
+3. Maven Integration plugin
+4. Maven Invoker plugin and configure Maven path
+5. Public over SSH
+6. Deploy to container
+7. Creditials(stores credentials) and 
+8. Credentials Binding plugin(store them in environment variable)
