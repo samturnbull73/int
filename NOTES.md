@@ -93,3 +93,8 @@ kubectl apply -f service.yml
 
 kubectl get services
 
+Two ways networking on Azure is setup, 
+
+**kubenet plugin(default)**, PODs have different IP addresses
+
+**Azure Container Networking Interface plugin** -> every pod in the cluster gets an IP address from the subnet. These make the pods directly accessible.
