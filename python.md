@@ -7,6 +7,9 @@ float
 bool
 
 str
+a="Jaipur"
+a='Jaipur'
+a='''Jaipur''' --multiline
 
 complex 
 -> 3+5j
