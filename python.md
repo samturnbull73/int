@@ -45,12 +45,20 @@ bytesarray - is also homegenous adn we can change the value
 List -> [hetrogenous value, and duplicate value is allowed]
 ll -> [10,10.11,"hello", True]
 
-tuple->{immutable}
+tuple->{immutable, hetrogenous}
 
 t={10,12,123.68}
 
 tuple cannot be modified 
 
+
+list
+tuple
+range procudes numbers in range, good for for loop
+for i in range(10,11):
+print(i)
+  
+  
 
 
 
