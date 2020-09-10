@@ -42,6 +42,19 @@ We do performance testing in Preprod environment
 
 For performance testing, you may use tools like Appdynamics, New Relic, we were using load runner.
 
+### Pipeline
+
+I'll use two plugins Delivery 
+### Pipeline Plugin and Build PipeLine Plugin
+
+There are two ways it can be setup, first by creating each individual job or by writing jenkinsfile. 
+--Create Build Job, deploy Job and Test job. 
+
+---In the build pipleline job specify **Pipeline flow** -> **Select Initial Job** as <First Build Job>
+  
+----In the Deploy and Test job -> Specify **Upstream Job**, say for Deploy job, it will be **Build Triggers** Build after other projects are build, and chose option like stable/unstable/or fails
+  
+
 #### Plugin 
 1. GitHub Plugin
 2. Command Agent Launched plugin
