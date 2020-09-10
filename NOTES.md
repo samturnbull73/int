@@ -44,7 +44,7 @@ For performance testing, you may use tools like Appdynamics, New Relic, we were 
 
 ### Pipeline
 
-I'll use two plugins Delivery 
+I'll use two plugins for this task
 ### Pipeline Plugin and Build PipeLine Plugin
 
 There are two ways it can be setup, first by creating each individual job or by writing jenkinsfile. 
