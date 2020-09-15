@@ -65,6 +65,9 @@ There are two ways it can be setup, first by creating each individual job or by 
 7. Creditials(stores credentials) and 
 8. Credentials Binding plugin(store them in environment variable)
 
+#### Jenkins Security
+![Jenkins Users Creation](https://github.com/samturnbull73/int/blob/master/images/JenkinsSecurityUsers.png)
+
 ### Ansible Sample http installation file
 ![Sample ansible file for http](https://github.com/samturnbull73/int/blob/master/images/ansible_http.png?raw=true)
 
