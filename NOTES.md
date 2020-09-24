@@ -68,8 +68,11 @@ There are two ways it can be setup, first by creating each individual job or by 
 #### Jenkins Security
 ![Jenkins Users Creation](https://github.com/samturnbull73/int/blob/master/images/JenkinsSecurityUsers.png)
 
-### Unit Tests
+#### Unit Tests
 ![Unit Test Build Result and plugin](https://github.com/samturnbull73/int/blob/master/images/unittest.png)
+
+#### Static Analysis Warning
+![Static Analysis Warning for minimum qualifying score](https://github.com/samturnbull73/int/blob/master/images/StaticAnalysisWarning.png)
 
 ### Ansible Sample http installation file
 ![Sample ansible file for http](https://github.com/samturnbull73/int/blob/master/images/ansible_http.png?raw=true)
