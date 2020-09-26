@@ -74,6 +74,16 @@ There are two ways it can be setup, first by creating each individual job or by 
 #### Static Analysis Warning
 ![Static Analysis Warning for minimum qualifying score](https://github.com/samturnbull73/int/blob/master/images/StaticAnalysisWarning.png)
 
+#### Security
+Matrix-Based security, the plug matrix based plugin enabled security at global level and project level - This options is suitable for mid to small organisation
+Role based Authorisation strategy - use the plugin for role based, it gives option to manage/assign and role strategy macros, it has 3 category of roles
+
+1. Global
+
+2. Project - we have two opitions, to create project level or a project level role, it creates a item role, lets say jobs starting with name as Payment and pattern as ^payment-.*
+
+3. Slave roles
+
 ### Ansible Sample http installation file
 ![Sample ansible file for http](https://github.com/samturnbull73/int/blob/master/images/ansible_http.png?raw=true)
 
