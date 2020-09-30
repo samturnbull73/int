@@ -7,7 +7,7 @@
 3. [Deploy on a docker container using Ansible](https://github.com/samturnbull73/Simple-DevOps-Project/blob/master/Jenkins_Jobs/Deploy_on_Container_using_Ansible.MD#deploy-on-a-docker-container-using-ansible)
 4. [Sample ansible file for http](https://github.com/samturnbull73/int/blob/master/NOTES.md#ansible-sample-http-installation-file)
 
-## Certificate Type
+## Certificate Type 
 Three flavours - 
 1. DV - Domain Verified - like lets Encrypt, 90 days, 60 days renewable, automated
 2. OV - Oraganisation Verified
@@ -80,7 +80,7 @@ There are two ways it can be setup, first by creating each individual job or by 
 #### Static Analysis Warning
 ![Static Analysis Warning for minimum qualifying score](https://github.com/samturnbull73/int/blob/master/images/StaticAnalysisWarning.png)
 
-#### Security
+#### Security and certificate
 Matrix-Based security, the plug matrix based plugin enabled security at global level and project level - This options is suitable for mid to small organisation
 Role based Authorisation strategy - use the plugin for role based, it gives option to manage/assign and role strategy macros, it has 3 category of roles
 
@@ -89,6 +89,13 @@ Role based Authorisation strategy - use the plugin for role based, it gives opti
 2. Project - we have two opitions, to create project level or a project level role, it creates a item role, lets say jobs starting with name as Payment and pattern as ^payment-.*
 
 3. Slave roles
+
+#### Jenkins Certificate 
+[OS Setup](https://github.com/samturnbull73/jenkins-bootcamp-course/blob/master/aws/lightsail/secure-jenkins.sh#L13-L31)
+
+[nginx configuration](https://github.com/samturnbull73/jenkins-bootcamp-course/blob/master/aws/lightsail/jenkins-secured.conf#L28-L49)
+
+
 
 ### Ansible Sample http installation file
 ![Sample ansible file for http](https://github.com/samturnbull73/int/blob/master/images/ansible_http.png?raw=true)
