@@ -7,6 +7,12 @@
 3. [Deploy on a docker container using Ansible](https://github.com/samturnbull73/Simple-DevOps-Project/blob/master/Jenkins_Jobs/Deploy_on_Container_using_Ansible.MD#deploy-on-a-docker-container-using-ansible)
 4. [Sample ansible file for http](https://github.com/samturnbull73/int/blob/master/NOTES.md#ansible-sample-http-installation-file)
 
+## Certificate Type
+Three flavours - 
+1. DV - Domain Verified - like lets Encrypt, 90 days, 60 days renewable, automated
+2. OV - Oraganisation Verified
+3. EV - Extended Verified
+
 ## Kubernetes
 1. [Integration Kubernetes with Jenkins](https://github.com/samturnbull73/Simple-DevOps-Project/blob/master/Kubernetes/Integrating_Kubernetes_with_Jenkins.MD#integration-kubernetes-with-jenkins)
 2. [Azure Kubernetes](https://github.com/samturnbull73/int/blob/master/NOTES.md#kubernetes-on-azure)
